@@ -8,6 +8,9 @@
 #         self.left = left
 #         self.right = right
 '''----------------------------------------------------------
+     Inorder Traversal we follow -> [LEFT, ROOT, RIGHT]
+     
+     
                         1
                      /     \
                     2       3
